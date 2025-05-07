@@ -122,7 +122,7 @@ Me chamo Nathaly Ferreira, tenho 23 anos e sou natural do Recife. Estudante de A
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=fspnathaly&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
